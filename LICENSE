@@ -1,0 +1,20 @@
+GitHat Inc. SDK License
+
+Copyright (c) 2024-2026 GitHat Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the @githat/nextjs npm package and associated TypeScript type
+declarations published from this repository (the "SDK"), to use the
+SDK for the purpose of integrating with GitHat services in their own
+applications, subject to the following conditions:
+
+1. The SDK may be redistributed only as part of an application that
+   uses it for its intended purpose (integrating with GitHat services).
+2. The SDK may not be redistributed as a standalone library or as part
+   of a competing service.
+3. The above copyright notice and this permission notice shall be
+   included in all copies or substantial portions of the SDK.
+
+THE SDK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
