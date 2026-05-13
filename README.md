@@ -1,8 +1,14 @@
 # @githat/nextjs
 
+[![npm version](https://img.shields.io/npm/v/@githat/nextjs?color=0b1320&logo=npm&logoColor=white)](https://www.npmjs.com/package/@githat/nextjs)
+[![npm downloads](https://img.shields.io/npm/dm/@githat/nextjs?color=0b1320)](https://www.npmjs.com/package/@githat/nextjs)
+[![types](https://img.shields.io/npm/types/@githat/nextjs?color=0b1320)](https://www.npmjs.com/package/@githat/nextjs)
+[![CodeQL](https://github.com/GitHat-IO/nextjs-sdk/actions/workflows/codeql.yml/badge.svg)](https://github.com/GitHat-IO/nextjs-sdk/actions/workflows/codeql.yml)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/GitHat-IO/nextjs-sdk/badge)](https://securityscorecards.dev/viewer/?uri=github.com/GitHat-IO/nextjs-sdk)
+[![GitHat](https://img.shields.io/badge/platform-GitHat-0b1320?logo=github)](https://githat.io)
+
 > Public home for the **@githat/nextjs** Next.js SDK — the auth and routing layer for apps built on the [GitHat platform](https://githat.io).
 
-[![npm](https://img.shields.io/npm/v/@githat/nextjs?color=0b1320&logo=npm&logoColor=white)](https://www.npmjs.com/package/@githat/nextjs)
 [![types](https://img.shields.io/npm/types/@githat/nextjs)](https://www.npmjs.com/package/@githat/nextjs)
 [![GitHat](https://img.shields.io/badge/platform-GitHat-0b1320?logo=githhub)](https://githat.io)
 
